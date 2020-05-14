@@ -1,0 +1,113 @@
+[[MPFI]]
+arch = "i686"
+git-tree-sha1 = "8d216df241d8be9360689c143801972f30b48a2f"
+libc = "musl"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "6c0c4db16d74952b7c3396b6ca4c24901e09aa7105c622a80de87e8c0ec1de14"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.i686-linux-musl.tar.gz"
+[[MPFI]]
+arch = "aarch64"
+git-tree-sha1 = "184dac227f823abd4738a4c8ffcee8f8041df0fe"
+libc = "musl"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "9ee1c197f691df354b093b237ede68c44918531176f5e224d6bd61475449823a"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.aarch64-linux-musl.tar.gz"
+[[MPFI]]
+arch = "i686"
+git-tree-sha1 = "33ed90cb5d337627db37f67e0b4021201cfebe01"
+os = "windows"
+
+    [[MPFI.download]]
+    sha256 = "9dee604525a776835c5a1c93f9ae8f5394b8ad3478b15a70afe7ee1b4418ab9d"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.i686-w64-mingw32.tar.gz"
+[[MPFI]]
+arch = "x86_64"
+git-tree-sha1 = "5ab902ca7d0bafd7b041ce8754db009953f4a2a8"
+os = "windows"
+
+    [[MPFI.download]]
+    sha256 = "647f262f7c26dce14879a422d0ff290a02abeb51a9f4a946bdd2b040b65bc4d7"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.x86_64-w64-mingw32.tar.gz"
+[[MPFI]]
+arch = "armv7l"
+git-tree-sha1 = "77b9d5fdbd42e3e225ed2708cd7feb6ffd2f3707"
+libc = "glibc"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "c9d87cb5043b346f985cb658fa48fb3a6aeb7525bdba6ca400620fdcad32c25c"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.armv7l-linux-gnueabihf.tar.gz"
+[[MPFI]]
+arch = "armv7l"
+git-tree-sha1 = "08672eb631b7c489bde2ebe13195f001d2320a28"
+libc = "musl"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "317441ff23e76c4087c1e668e7ff95caa84fb28a9725f4d401f2a260ed38e3b7"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.armv7l-linux-musleabihf.tar.gz"
+[[MPFI]]
+arch = "i686"
+git-tree-sha1 = "55ce9dd1c2d30ce89cdd3a725ecbd3d4c60a7a88"
+libc = "glibc"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "09a36e40cc631be67056a9ead196013d64f2c6efe0df008560f1640d5ebbb259"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.i686-linux-gnu.tar.gz"
+[[MPFI]]
+arch = "x86_64"
+git-tree-sha1 = "39358e931b24fb8ec8854df95b4439969345d941"
+libc = "glibc"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "529c10d2793ef60c952a35f875f7bf1799b77ba67f2d1e5372fb5b93c54d8533"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.x86_64-linux-gnu.tar.gz"
+[[MPFI]]
+arch = "powerpc64le"
+git-tree-sha1 = "8086a851a3fbf03ceec15f6f25842c96c726df39"
+libc = "glibc"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "2053bd698628c55241177354549c99fc26964b3862eb5844441e2a59fa709574"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.powerpc64le-linux-gnu.tar.gz"
+[[MPFI]]
+arch = "x86_64"
+git-tree-sha1 = "7f40d2e4d6bb8c3a5787209d3c448a0efc814403"
+os = "macos"
+
+    [[MPFI.download]]
+    sha256 = "0ad5bf0cb3215d07360b8e1944cd77f0c0aee4ac9b477f03274462d5f13d19cd"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.x86_64-apple-darwin14.tar.gz"
+[[MPFI]]
+arch = "aarch64"
+git-tree-sha1 = "c9593818ab08f753afe213076da7a6afeb75eaaa"
+libc = "glibc"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "6a3df044d7e219e7e9652639b02ff714c963637642a76e821d173b6047ae861f"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.aarch64-linux-gnu.tar.gz"
+[[MPFI]]
+arch = "x86_64"
+git-tree-sha1 = "2020cfc5580fcb2a4401b8c8fcb1221e5439abad"
+os = "freebsd"
+
+    [[MPFI.download]]
+    sha256 = "d017f2a5c88ffd49dff4271c9ee8dcec16057de56bcec040180d5c8bd5e5426a"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.x86_64-unknown-freebsd11.1.tar.gz"
+[[MPFI]]
+arch = "x86_64"
+git-tree-sha1 = "8974172431b171c121445617e5b8f0595dda7117"
+libc = "musl"
+os = "linux"
+
+    [[MPFI.download]]
+    sha256 = "f559b4eee21c87c848665c90c3db24e2315b5ea8ab09f2cc8932c39fe3a3979f"
+    url = "https://github.com/JuliaBinaryWrappers/MPFI_jll.jl/releases/download/MPFI-v1.5.4+0/MPFI.v1.5.4.x86_64-linux-musl.tar.gz"
